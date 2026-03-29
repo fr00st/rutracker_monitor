@@ -1,0 +1,3 @@
+# RuTracker topics to monitor (one URL per line)
+https://rutracker.org/forum/viewtopic.php?t=6823726
+https://rutracker.org/forum/viewtopic.php?t=6810475

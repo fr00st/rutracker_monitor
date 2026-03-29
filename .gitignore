@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# Allow git control files
+!.gitignore
+
+# Track only rutracker monitor files
+!rutracker_hash_check.py
+!rutracker_hash_check.sh
+!rutracker_links.txt
+!rutracker_hash_monitor_logic.md
+!rutracker_hash.txt

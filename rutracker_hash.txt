@@ -1,0 +1,4 @@
+{
+  "https://rutracker.org/forum/viewtopic.php?t=6823726": "2411b05ee6f2375faa358d7d0d5a94fdad08ae29",
+  "https://rutracker.org/forum/viewtopic.php?t=6810475": "3f2569c56dbf3add08683d12a443396457faebe2"
+}
